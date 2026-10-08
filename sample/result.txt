@@ -1,0 +1,23 @@
+HTTP status code counts
+Total requests: 500 | Unparsed lines: 2
+
+By status code:
+  200 OK                        384  (76.8%)
+  201 Created                     7  (1.4%)
+  301 Moved Permanently          25  (5.0%)
+  302 Found                       9  (1.8%)
+  304 Not Modified               16  (3.2%)
+  400 Bad Request                 5  (1.0%)
+  401 Unauthorized                3  (0.6%)
+  403 Forbidden                   3  (0.6%)
+  404 Not Found                  29  (5.8%)
+  429 Too Many Requests           5  (1.0%)
+  500 Internal Server Error      11  (2.2%)
+  502 Bad Gateway                 2  (0.4%)
+  503 Service Unavailable         1  (0.2%)
+
+By class:
+  2xx Success           391  (78.2%)
+  3xx Redirection        50  (10.0%)
+  4xx Client Error       45  (9.0%)
+  5xx Server Error       14  (2.8%)

@@ -1,0 +1,93 @@
+{
+  "total_requests": 500,
+  "unparsed_lines": 2,
+  "by_status": [
+    {
+      "code": 200,
+      "name": "OK",
+      "count": 384
+    },
+    {
+      "code": 201,
+      "name": "Created",
+      "count": 7
+    },
+    {
+      "code": 301,
+      "name": "Moved Permanently",
+      "count": 25
+    },
+    {
+      "code": 302,
+      "name": "Found",
+      "count": 9
+    },
+    {
+      "code": 304,
+      "name": "Not Modified",
+      "count": 16
+    },
+    {
+      "code": 400,
+      "name": "Bad Request",
+      "count": 5
+    },
+    {
+      "code": 401,
+      "name": "Unauthorized",
+      "count": 3
+    },
+    {
+      "code": 403,
+      "name": "Forbidden",
+      "count": 3
+    },
+    {
+      "code": 404,
+      "name": "Not Found",
+      "count": 29
+    },
+    {
+      "code": 429,
+      "name": "Too Many Requests",
+      "count": 5
+    },
+    {
+      "code": 500,
+      "name": "Internal Server Error",
+      "count": 11
+    },
+    {
+      "code": 502,
+      "name": "Bad Gateway",
+      "count": 2
+    },
+    {
+      "code": 503,
+      "name": "Service Unavailable",
+      "count": 1
+    }
+  ],
+  "by_class": [
+    {
+      "class": "2xx",
+      "name": "Success",
+      "count": 391
+    },
+    {
+      "class": "3xx",
+      "name": "Redirection",
+      "count": 50
+    },
+    {
+      "class": "4xx",
+      "name": "Client Error",
+      "count": 45
+    },
+    {
+      "class": "5xx",
+      "name": "Server Error",
+      "count": 14
+    }
+  ]
+}

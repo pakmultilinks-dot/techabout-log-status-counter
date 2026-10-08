@@ -1,0 +1,15 @@
+status_code,name,class,class_name,count
+200,OK,2xx,Success,384
+201,Created,2xx,Success,7
+301,Moved Permanently,3xx,Redirection,25
+302,Found,3xx,Redirection,9
+304,Not Modified,3xx,Redirection,16
+400,Bad Request,4xx,Client Error,5
+401,Unauthorized,4xx,Client Error,3
+403,Forbidden,4xx,Client Error,3
+404,Not Found,4xx,Client Error,29
+429,Too Many Requests,4xx,Client Error,5
+500,Internal Server Error,5xx,Server Error,11
+502,Bad Gateway,5xx,Server Error,2
+503,Service Unavailable,5xx,Server Error,1
+unparsed,,,,2
